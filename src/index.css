@@ -1,0 +1,9 @@
+* {
+	box-sizing: border-box;
+}
+
+:root {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	height: 100vh;
+	background: url(./img/bg.jpg) center center/cover no-repeat;
+}
